@@ -1,0 +1,55 @@
+{
+  "version": "2.5.1",
+  "name": "Competitive Configuration",
+  "description": "Optimized for competitive gameplay with balanced settings",
+  "aimbot": {
+    "enabled": true,
+    "aim_key": "mouse1",
+    "fov": 60,
+    "smoothness": 8.0,
+    "target_bone": "head",
+    "visibility_check": true,
+    "prediction": true,
+    "auto_shoot": false,
+    "silent_aim": false
+  },
+  "esp": {
+    "players": {
+      "enabled": true,
+      "show_names": true,
+      "show_health": true,
+      "show_distance": true,
+      "box_type": "2d",
+      "distance_limit": 150
+    },
+    "loot": {
+      "enabled": false,
+      "distance_limit": 50
+    },
+    "base": {
+      "enabled": false
+    }
+  },
+  "misc": {
+    "no_recoil": {
+      "enabled": true,
+      "weapon_specific": true,
+      "compensation": 85
+    },
+    "auto_farm": {
+      "enabled": false
+    },
+    "visual": {
+      "always_day": false,
+      "bright_caves": true,
+      "no_fog": true,
+      "enhanced_colors": true
+    }
+  },
+  "safety": {
+    "randomization": true,
+    "delay_variance": [15, 35],
+    "human_like_movement": true,
+    "anti_screenshot": true
+  }
+}

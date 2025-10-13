@@ -1,0 +1,83 @@
+{
+  "version": "2.5.1",
+  "aimbot": {
+    "enabled": true,
+    "aim_key": "mouse1",
+    "fov": 90,
+    "smoothness": 5.0,
+    "target_bone": "head",
+    "visibility_check": true,
+    "prediction": true,
+    "auto_shoot": false,
+    "silent_aim": false
+  },
+  "esp": {
+    "players": {
+      "enabled": true,
+      "show_names": true,
+      "show_health": true,
+      "show_distance": true,
+      "box_type": "2d",
+      "enemy_color": [255, 0, 0, 255],
+      "teammate_color": [0, 255, 0, 255]
+    },
+    "loot": {
+      "enabled": true,
+      "show_weapons": true,
+      "show_resources": true,
+      "show_crates": true,
+      "show_stashes": true,
+      "distance_limit": 200
+    },
+    "base": {
+      "enabled": false,
+      "show_tool_cupboards": true,
+      "show_doors": true,
+      "show_sleeping_bags": true,
+      "show_turrets": true
+    }
+  },
+  "misc": {
+    "no_recoil": {
+      "enabled": false,
+      "weapon_specific": true,
+      "compensation": 100
+    },
+    "auto_farm": {
+      "enabled": false,
+      "targets": ["trees", "nodes", "barrels"],
+      "auto_swing": true,
+      "optimal_distance": 3
+    },
+    "visual": {
+      "always_day": false,
+      "bright_caves": false,
+      "no_fog": false,
+      "enhanced_colors": false
+    }
+  },
+  "hotkeys": {
+    "toggle_menu": "INSERT",
+    "toggle_aimbot": "F1",
+    "toggle_esp": "F2",
+    "toggle_no_recoil": "F3",
+    "toggle_fly_hack": "F4",
+    "toggle_auto_farm": "F5",
+    "save_config": "F9",
+    "load_config": "F10"
+  },
+  "performance": {
+    "esp_distance_limit": 150,
+    "update_rate": 60,
+    "render_quality": "medium",
+    "thread_priority": "normal"
+  },
+  "safety": {
+    "randomization": true,
+    "delay_variance": [10, 50],
+    "human_like_movement": true,
+    "anti_screenshot": true,
+    "obs_protection": true,
+    "discord_protection": true
+  }
+}
