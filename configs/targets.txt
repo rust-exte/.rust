@@ -1,12 +1,1 @@
-Brainstorm feature ideas
-Plan oncall shifts
-Record stakeholder feedback
-Review pull requests
-Note latency spikes
-Draft consent policy
-Draft migration checklist
-Record prototype feedback
-Note encryption methods
-Update fleet schedule
-Draft policy updates
-Summarize QA audits
+Draft documentation outline
