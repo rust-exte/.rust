@@ -6,3 +6,4 @@ Note alignment checks
 Refine acceptance criteria
 Record CI/CD pipeline
 Note threshold breaches
+Plan cashflow forecast
