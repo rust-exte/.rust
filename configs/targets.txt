@@ -5,3 +5,4 @@ Update glossary
 Draft QA strategy
 Draft routing policies
 Log mitigation steps
+Update governance notes
