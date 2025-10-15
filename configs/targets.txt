@@ -5,3 +5,4 @@ Draft social post plan
 Investigate error patterns
 Record interview notes
 Update glossary
+Record hackathon ideas
