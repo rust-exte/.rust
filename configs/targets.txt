@@ -4,3 +4,4 @@ Prepare A/B test plan
 Note toggle plan
 Note alignment checks
 Refine acceptance criteria
+Record CI/CD pipeline
