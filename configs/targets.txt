@@ -1,8 +1,1 @@
-Check error handling
-Draft sales strategy
-Review WAF settings
-Draft social post plan
-Investigate error patterns
-Record interview notes
-Update glossary
-Record hackathon ideas
+Review pull requests
