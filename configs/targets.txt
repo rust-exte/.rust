@@ -7,3 +7,4 @@ Draft consent policy
 Draft migration checklist
 Record prototype feedback
 Note encryption methods
+Update fleet schedule
