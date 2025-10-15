@@ -1,11 +1,1 @@
-Record steering notes
-Prepare presentation slides
-Check shipment status
-Summarize PCI items
-Update language packs
-Draft opportunity list
-Update glossary
-Update dispute outcomes
-Clarify design goals
-Draft release checklist
-Draft escalation doc
+Summarize ROC data
