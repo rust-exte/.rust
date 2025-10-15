@@ -3,3 +3,4 @@ Draft sales strategy
 Review WAF settings
 Draft social post plan
 Investigate error patterns
+Record interview notes
