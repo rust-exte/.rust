@@ -2,3 +2,4 @@ Record F1 score
 Record media queries
 Record CCPA checks
 Document key decisions
+Draft staging plan
