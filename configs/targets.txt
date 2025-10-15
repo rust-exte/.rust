@@ -1,3 +1,4 @@
 Add privacy considerations
 Check anomaly alerts
 Update style guide
+Update CDN rules
