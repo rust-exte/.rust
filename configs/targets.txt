@@ -3,3 +3,4 @@ Plan oncall shifts
 Record stakeholder feedback
 Review pull requests
 Note latency spikes
+Draft consent policy
