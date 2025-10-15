@@ -5,3 +5,4 @@ Document key decisions
 Draft staging plan
 Draft liquidity plan
 Note suspicious patterns
+Draft accessibility review
