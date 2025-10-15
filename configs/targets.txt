@@ -2,3 +2,4 @@ Note identity checks
 Summarize top requests
 Capture moodboard items
 Update glossary
+Draft QA strategy
