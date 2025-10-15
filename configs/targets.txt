@@ -1,1 +1,1 @@
-Update dependency versions
+Record steering notes
