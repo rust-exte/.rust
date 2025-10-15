@@ -2,3 +2,4 @@ Brainstorm feature ideas
 Plan oncall shifts
 Record stakeholder feedback
 Review pull requests
+Note latency spikes
