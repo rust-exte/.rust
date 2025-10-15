@@ -1,3 +1,4 @@
 Check error handling
 Draft sales strategy
 Review WAF settings
+Draft social post plan
