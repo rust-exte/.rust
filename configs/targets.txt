@@ -6,3 +6,4 @@ Update language packs
 Draft opportunity list
 Update glossary
 Update dispute outcomes
+Clarify design goals
