@@ -1,15 +1,1 @@
-Note identity checks
-Summarize top requests
-Capture moodboard items
-Update glossary
-Draft QA strategy
-Draft routing policies
-Log mitigation steps
-Update governance notes
-Record risk register
-Draft policy updates
-Update dropout rate
-Document retry policy
-Draft style samples
-Summarize rollout success
-Update status of tasks
+Summarize deployment logs
