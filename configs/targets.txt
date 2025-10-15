@@ -1,2 +1,3 @@
 Draft documentation outline
 Analyze user feedback
+Check clickthrough rate
