@@ -4,3 +4,4 @@ Record CCPA checks
 Document key decisions
 Draft staging plan
 Draft liquidity plan
+Note suspicious patterns
