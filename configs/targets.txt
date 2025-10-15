@@ -1,3 +1,1 @@
-Summarize dependency map
-Draft upsell campaign
-Update swag inventory
+Record IDS findings
