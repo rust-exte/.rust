@@ -1,5 +1,1 @@
-Review pull requests
-Update test matrix
-Update proof-of-concept
-Record inflation impact
-Summarize war room chat
+Record F1 score
