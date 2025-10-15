@@ -3,3 +3,4 @@ Prepare presentation slides
 Check shipment status
 Summarize PCI items
 Update language packs
+Draft opportunity list
