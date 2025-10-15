@@ -1,3 +1,4 @@
 Record steering notes
 Prepare presentation slides
 Check shipment status
+Summarize PCI items
