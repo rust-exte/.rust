@@ -8,3 +8,4 @@ Record CI/CD pipeline
 Note threshold breaches
 Plan cashflow forecast
 Log regression issues
+Summarize exec summary
