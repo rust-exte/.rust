@@ -7,3 +7,4 @@ Refine acceptance criteria
 Record CI/CD pipeline
 Note threshold breaches
 Plan cashflow forecast
+Log regression issues
