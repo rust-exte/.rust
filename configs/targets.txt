@@ -7,3 +7,4 @@ Record HR initiatives
 Draft emergency contacts
 Recheck security notes
 Record gradual rollout
+Note compliance reminders
