@@ -18,3 +18,4 @@ Update pricing table
 Summarize industry news
 Analyze customer data
 Check ISO documents
+Note training needs
