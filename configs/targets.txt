@@ -7,3 +7,4 @@ Update contact list
 Capture monitoring gaps
 Draft migration checklist
 Draft model results
+Draft SSO integration
