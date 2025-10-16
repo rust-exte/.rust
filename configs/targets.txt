@@ -20,3 +20,4 @@ Research best practices
 Review logo sketches
 Record treasury notes
 Check localization files
+Draft container images
