@@ -10,3 +10,4 @@ Record progress KPIs
 Update rollback notes
 Log board decisions
 Record stakeholder feedback
+Summarize version bumps
