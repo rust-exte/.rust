@@ -1,11 +1,1 @@
-Log board decisions
-Update contact list
-Summarize caching results
-Summarize funnel metrics
-Refine backlog items
-Record feature votes
-Record gradual rollout
-Record retention schedule
-Update compatibility notes
-Note campaign results
 Track configuration drift
