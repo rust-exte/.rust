@@ -1,4 +1,1 @@
-Note pipeline DAG
-Draft celebration notes
-Write press release draft
-Check TLS configuration
+Note improvement ideas
