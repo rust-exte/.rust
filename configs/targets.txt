@@ -13,3 +13,4 @@ Record automation scripts
 Summarize adoption metrics
 Update validation plan
 Draft marketing blurb
+Draft QA strategy
