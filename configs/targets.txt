@@ -9,3 +9,4 @@ Draft migration checklist
 Draft model results
 Draft SSO integration
 Update device matrix
+Note integrity checks
