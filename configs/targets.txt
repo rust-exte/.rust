@@ -15,3 +15,4 @@ Summarize SIEM setup
 Update session rules
 Check build artifacts
 Update pricing table
+Summarize industry news
