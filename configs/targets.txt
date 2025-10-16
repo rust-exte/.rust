@@ -12,3 +12,4 @@ Draft access review
 Plan capacity increase
 Summarize candidate profiles
 Update pager duty notes
+List semantic changes
