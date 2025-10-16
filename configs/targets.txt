@@ -1,2 +1,3 @@
 Summarize market trends
 Add privacy considerations
+Check export rules
