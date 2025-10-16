@@ -15,3 +15,4 @@ Record event calendar
 Summarize call notes
 Prepare presentation slides
 List cluster configs
+Note content review
