@@ -14,3 +14,4 @@ Draft failover plan
 Record event calendar
 Summarize call notes
 Prepare presentation slides
+List cluster configs
