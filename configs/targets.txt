@@ -4,3 +4,4 @@ Plan data migration
 Plan team retro
 Record progress KPIs
 Summarize uptime data
+Record OKR sync
