@@ -1,1 +1,1 @@
-Note pass/fail ratio
+Note customer churn
