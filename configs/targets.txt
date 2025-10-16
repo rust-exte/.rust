@@ -23,3 +23,4 @@ Check localization files
 Draft container images
 Prepare closure report
 Check error handling
+Note delivery issues
