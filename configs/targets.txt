@@ -3,3 +3,4 @@ Update contact list
 Summarize caching results
 Summarize funnel metrics
 Refine backlog items
+Record feature votes
