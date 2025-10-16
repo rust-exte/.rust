@@ -8,3 +8,4 @@ Note alignment checks
 Review cost savings
 Capture article topics
 Schedule next sprint planning
+Check customs docs
