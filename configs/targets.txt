@@ -9,3 +9,4 @@ Recheck security notes
 Record gradual rollout
 Note compliance reminders
 Draft liquidity plan
+Note currency exposure
