@@ -1,1 +1,2 @@
 Track configuration drift
+Summarize funnel metrics
