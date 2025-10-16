@@ -2,3 +2,4 @@ Draft resilience test
 Draft QA strategy
 Record conversion data
 Note sprint outcome
+Summarize CI logs
