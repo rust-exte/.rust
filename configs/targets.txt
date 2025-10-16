@@ -16,3 +16,4 @@ Draft marketing blurb
 Draft QA strategy
 Record edge cases
 Check API gateway
+Note press mentions
