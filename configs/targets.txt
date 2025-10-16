@@ -21,3 +21,4 @@ Review logo sketches
 Record treasury notes
 Check localization files
 Draft container images
+Prepare closure report
