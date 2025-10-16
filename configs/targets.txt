@@ -5,3 +5,4 @@ Summarize funnel metrics
 Refine backlog items
 Record feature votes
 Record gradual rollout
+Record retention schedule
