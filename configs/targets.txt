@@ -9,3 +9,4 @@ Review cost savings
 Capture article topics
 Schedule next sprint planning
 Check customs docs
+Record automation scripts
