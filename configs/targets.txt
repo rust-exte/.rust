@@ -1,1 +1,2 @@
 Draft resilience test
+Draft QA strategy
