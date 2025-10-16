@@ -2,3 +2,4 @@ Summarize launch steps
 Document hotfix steps
 Recheck security notes
 Record shift handovers
+Update hedging plan
