@@ -3,3 +3,4 @@ Update proof-of-concept
 List governance items
 Record volunteer names
 Summarize ROC data
+Record DB query logs
