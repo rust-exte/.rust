@@ -1,12 +1,1 @@
-Summarize litigation notes
-Check breaking changes
-Record key rotation plan
-Note reorder points
-Record certificate renewals
-Record F1 score
-Draft feature proposal
-Update device matrix
-Summarize deployment logs
-Update board minutes
-Reevaluate requirements
-Summarize launch steps
+Note pass/fail ratio
