@@ -2,3 +2,4 @@ Prepare A/B test plan
 Summarize outage causes
 Note compliance reminders
 Draft mitigation guide
+Refine SEO checklist
