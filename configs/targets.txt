@@ -10,3 +10,4 @@ Draft model results
 Draft SSO integration
 Update device matrix
 Note integrity checks
+Draft failover plan
