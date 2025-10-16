@@ -12,3 +12,4 @@ Check customs docs
 Record automation scripts
 Summarize adoption metrics
 Update validation plan
+Draft marketing blurb
