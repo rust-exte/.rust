@@ -5,3 +5,4 @@ Plan team retro
 Record progress KPIs
 Summarize uptime data
 Record OKR sync
+Record auth logs
