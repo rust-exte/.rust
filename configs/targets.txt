@@ -25,3 +25,4 @@ Prepare closure report
 Check error handling
 Note delivery issues
 Log strategic initiatives
+Record inflation impact
