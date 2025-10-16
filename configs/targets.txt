@@ -1,1 +1,2 @@
 Record validation scores
+Summarize responsive fixes
