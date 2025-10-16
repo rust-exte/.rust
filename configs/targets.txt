@@ -18,3 +18,4 @@ List cluster configs
 Note content review
 Research best practices
 Review logo sketches
+Record treasury notes
