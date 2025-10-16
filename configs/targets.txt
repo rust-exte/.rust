@@ -3,3 +3,4 @@ Draft QA strategy
 Record conversion data
 Note sprint outcome
 Summarize CI logs
+Record stakeholder feedback
