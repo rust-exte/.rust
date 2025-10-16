@@ -2,3 +2,4 @@ Summarize litigation notes
 Check breaking changes
 Record key rotation plan
 Note reorder points
+Record certificate renewals
