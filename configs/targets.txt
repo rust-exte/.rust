@@ -9,3 +9,4 @@ Update device matrix
 Summarize deployment logs
 Update board minutes
 Reevaluate requirements
+Summarize launch steps
