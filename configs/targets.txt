@@ -3,3 +3,4 @@ Summarize QA audits
 Update dropout rate
 Record user stories
 Simplify configuration
+Collect metrics for dashboard
