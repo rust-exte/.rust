@@ -1,3 +1,1 @@
-Summarize anonymization steps
-Brainstorm feature ideas
-Review MFA adoption
+Record media queries
