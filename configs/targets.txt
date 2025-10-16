@@ -1,2 +1,1 @@
-Update legal references
-Draft liquidity plan
+Adjust retry logic
