@@ -8,3 +8,4 @@ Draft feature proposal
 Update device matrix
 Summarize deployment logs
 Update board minutes
+Reevaluate requirements
