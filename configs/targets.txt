@@ -1,2 +1,3 @@
 Adjust retry logic
 Draft cloud budget
+Note funding options
