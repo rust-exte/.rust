@@ -1,12 +1,1 @@
-Plan lead generation
-Update proof-of-concept
-List governance items
-Record volunteer names
-Summarize ROC data
-Record DB query logs
-List booth designs
-Record stakeholder feedback
-Note GDPR tasks
-Update swag inventory
-Check customs docs
-Draft roadmap alignment
+Draft feature proposal
