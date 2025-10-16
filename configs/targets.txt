@@ -4,3 +4,4 @@ Record conversion data
 Note trend shifts
 Draft SLA updates
 List known limitations
+Record CI/CD pipeline
