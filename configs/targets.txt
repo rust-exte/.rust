@@ -5,3 +5,4 @@ Record shift handovers
 Update hedging plan
 Update swag inventory
 Note customer churn
+Check delivery follow-up
