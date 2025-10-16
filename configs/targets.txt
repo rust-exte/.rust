@@ -12,3 +12,4 @@ Update device matrix
 Note integrity checks
 Draft failover plan
 Record event calendar
+Summarize call notes
