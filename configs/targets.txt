@@ -13,3 +13,4 @@ Update style guide
 Fix minor issues in workflow
 Summarize SIEM setup
 Update session rules
+Check build artifacts
