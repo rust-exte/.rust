@@ -10,3 +10,4 @@ Plan team retro
 Prepare status email
 Note training epochs
 Update style guide
+Fix minor issues in workflow
