@@ -12,3 +12,4 @@ Log board decisions
 Record stakeholder feedback
 Summarize version bumps
 Check anomaly alerts
+Refine acceptance criteria
