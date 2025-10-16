@@ -11,3 +11,4 @@ Prepare status email
 Note training epochs
 Update style guide
 Fix minor issues in workflow
+Summarize SIEM setup
