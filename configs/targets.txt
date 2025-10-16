@@ -11,3 +11,4 @@ Draft SSO integration
 Update device matrix
 Note integrity checks
 Draft failover plan
+Record event calendar
