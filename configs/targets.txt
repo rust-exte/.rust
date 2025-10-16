@@ -1,2 +1,3 @@
 Note customer churn
 Record compliance status
+Polish UI interactions
