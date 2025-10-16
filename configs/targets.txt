@@ -2,3 +2,4 @@ Update P&L sheet
 Record arbitration steps
 Update cron jobs
 Note winner list
+Collect analytics snapshots
