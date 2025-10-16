@@ -4,3 +4,4 @@ Note compliance reminders
 Draft mitigation guide
 Refine SEO checklist
 Note currency exposure
+Summarize rollback drills
