@@ -5,3 +5,4 @@ List OKRs
 Check delivery follow-up
 Record HR initiatives
 Draft emergency contacts
+Recheck security notes
