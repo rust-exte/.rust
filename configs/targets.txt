@@ -10,3 +10,4 @@ Check monitoring alerts
 Update collaboration doc
 Draft access review
 Plan capacity increase
+Summarize candidate profiles
