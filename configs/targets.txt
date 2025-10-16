@@ -5,3 +5,4 @@ Note campaign results
 List missing coverage
 Capture SWOT notes
 Refactor old modules
+Summarize adoption metrics
