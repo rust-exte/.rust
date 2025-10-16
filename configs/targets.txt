@@ -1,9 +1,1 @@
-Record F1 score
-Record media queries
-Record CCPA checks
-Document key decisions
-Draft staging plan
-Draft liquidity plan
-Note suspicious patterns
-Draft accessibility review
-Record feedback cycle
+Prepare A/B test plan
