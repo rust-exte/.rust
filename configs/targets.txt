@@ -7,3 +7,4 @@ Record DB query logs
 List booth designs
 Record stakeholder feedback
 Note GDPR tasks
+Update swag inventory
