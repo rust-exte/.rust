@@ -2,3 +2,4 @@ Update AUC results
 Summarize QA audits
 Update dropout rate
 Record user stories
+Simplify configuration
