@@ -8,3 +8,4 @@ Record OKR sync
 Record auth logs
 Record progress KPIs
 Update rollback notes
+Log board decisions
