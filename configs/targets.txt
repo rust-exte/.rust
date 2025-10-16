@@ -18,3 +18,4 @@ Add fallback options
 Summarize quota usage
 Draft appreciation post
 Draft consent policy
+List booth designs
