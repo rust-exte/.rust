@@ -1,3 +1,4 @@
 Track configuration drift
 Summarize funnel metrics
 Draft logistics plan
+List OKRs
