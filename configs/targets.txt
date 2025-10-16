@@ -1,3 +1,4 @@
 Update supply data
 Update collaboration doc
 Record conversion data
+Note trend shifts
