@@ -8,3 +8,4 @@ Record gradual rollout
 Record retention schedule
 Update compatibility notes
 Note campaign results
+Track configuration drift
