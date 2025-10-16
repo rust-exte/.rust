@@ -19,3 +19,4 @@ Note content review
 Research best practices
 Review logo sketches
 Record treasury notes
+Check localization files
