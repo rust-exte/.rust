@@ -6,3 +6,4 @@ Draft SLA updates
 List known limitations
 Record CI/CD pipeline
 Record engagement stats
+Draft exploration notes
