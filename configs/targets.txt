@@ -1,2 +1,3 @@
 Summarize launch steps
 Document hotfix steps
+Recheck security notes
