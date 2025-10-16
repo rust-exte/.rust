@@ -8,3 +8,4 @@ Note customer churn
 Check delivery follow-up
 Check monitoring alerts
 Update collaboration doc
+Draft access review
