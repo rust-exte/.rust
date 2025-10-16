@@ -7,3 +7,4 @@ Record stakeholder feedback
 Note alignment checks
 Review cost savings
 Capture article topics
+Schedule next sprint planning
