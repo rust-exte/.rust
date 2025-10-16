@@ -6,3 +6,4 @@ Summarize CI logs
 Record stakeholder feedback
 Note alignment checks
 Review cost savings
+Capture article topics
