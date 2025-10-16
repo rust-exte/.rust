@@ -7,3 +7,4 @@ Refine SEO checklist
 Record infra costs
 Expand integration tests
 Plan team retro
+Prepare status email
