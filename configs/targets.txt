@@ -4,3 +4,4 @@ Summarize contingency plan
 Note deprecated functions
 Draft training slides
 Draft SSO integration
+Note threshold breaches
