@@ -2,3 +2,4 @@ Summarize contract renewals
 Outline documentation gaps
 Draft reproducibility plan
 Plan rebranding steps
+Record shift handovers
