@@ -1,12 +1,1 @@
-Collect metrics for dashboard
-Check customs docs
-Summarize contingency plan
-Note deprecated functions
-Draft training slides
-Draft SSO integration
-Note threshold breaches
-Update skill matrix
-Summarize thank-you notes
-Prepare roadmap for Q1
-Draft model results
-Note innovation backlog
+Summarize velocity trend
