@@ -1,4 +1,1 @@
-Summarize last meeting notes
-Update infra diagram
-Draft forum summary
-Draft consent policy
+Schedule maintenance window
