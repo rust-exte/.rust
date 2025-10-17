@@ -1,9 +1,1 @@
-Record media queries
-Update board minutes
-Draft accessibility review
-Capture moodboard items
-Review caching strategy
-Schedule maintenance window
-Update pager duty notes
-Draft mitigation guide
-Draft onboarding checklist
+Summarize contract renewals
