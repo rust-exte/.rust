@@ -8,3 +8,4 @@ Note threshold breaches
 Update skill matrix
 Summarize thank-you notes
 Prepare roadmap for Q1
+Draft model results
