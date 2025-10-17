@@ -1,9 +1,1 @@
-Schedule maintenance window
-Plan lead generation
-Expand integration tests
-Draft escalation doc
-List known limitations
-Note improvement ideas
-Draft sponsorship deals
-Update AB split logs
-Record competitor moves
+Draft ethics policy
