@@ -6,3 +6,4 @@ List known limitations
 Note improvement ideas
 Draft sponsorship deals
 Update AB split logs
+Record competitor moves
