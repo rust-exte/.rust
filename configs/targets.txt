@@ -4,3 +4,4 @@ Expand integration tests
 Draft escalation doc
 List known limitations
 Note improvement ideas
+Draft sponsorship deals
