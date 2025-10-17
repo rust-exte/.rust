@@ -6,3 +6,4 @@ Draft training slides
 Draft SSO integration
 Note threshold breaches
 Update skill matrix
+Summarize thank-you notes
