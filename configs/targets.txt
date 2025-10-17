@@ -6,3 +6,4 @@ Review caching strategy
 Schedule maintenance window
 Update pager duty notes
 Draft mitigation guide
+Draft onboarding checklist
