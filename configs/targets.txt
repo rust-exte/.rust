@@ -7,3 +7,4 @@ Track timeline adjustments
 Note decision log
 Check container configs
 Note identity checks
+Record media queries
