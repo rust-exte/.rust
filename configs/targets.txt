@@ -1,8 +1,1 @@
-Record edge cases
-Record prototype feedback
-Check benchmark scores
-Record procurement steps
-Summarize audits
-Summarize traffic weights
-Draft documentation outline
-Note integrity checks
+Draft sourcing notes
