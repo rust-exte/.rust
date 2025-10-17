@@ -5,3 +5,4 @@ Capture moodboard items
 Review caching strategy
 Schedule maintenance window
 Update pager duty notes
+Draft mitigation guide
