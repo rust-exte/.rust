@@ -1,3 +1,4 @@
 Summarize velocity trend
 Update collaboration doc
 Draft accessibility review
+Record stakeholder feedback
