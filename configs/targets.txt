@@ -5,3 +5,4 @@ Plan rebranding steps
 Record shift handovers
 Draft SLA updates
 Update compatibility notes
+Update pager duty notes
