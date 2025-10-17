@@ -1,1 +1,2 @@
 Record load test data
+Record survey highlights
