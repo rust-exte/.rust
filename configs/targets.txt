@@ -2,3 +2,4 @@ Collect metrics for dashboard
 Check customs docs
 Summarize contingency plan
 Note deprecated functions
+Draft training slides
